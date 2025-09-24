@@ -1,0 +1,6 @@
+Alice 85 90
+Bob 70 65
+Charlie 95 88
+Diana 60 72
+Ethan 88 95
+###END###
